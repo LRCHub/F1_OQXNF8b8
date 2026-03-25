@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "AKUMA",
   "base_artist": "常闇トワ",
-  "createdAt": "2025-12-23T10:19:18.352094Z",
+  "createdAt": "2026-03-25T05:25:47.143952Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -103,34 +103,42 @@
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "$uicider (Prod. by Rare Akuma) [Bonus Track]",
-      "artist": "$uicideboy$",
+      "title": "Akuma no Ko",
+      "artist": "Ai Higuchi",
       "has_synced": true,
-      "path": "select/13_$uicider_(Prod._by_Rare_Akuma)_[Bonus_Track]_$uicideboy$.lrc"
+      "path": "select/13_Akuma_no_Ko_Ai_Higuchi.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "Akuma no Ko",
-      "artist": "Ai Higuchi",
+      "title": "$uicider (Prod. by Rare Akuma) [Bonus Track]",
+      "artist": "$uicideboy$",
       "has_synced": true,
-      "path": "select/14_Akuma_no_Ko_Ai_Higuchi.lrc"
+      "path": "select/14_$uicider_(Prod._by_Rare_Akuma)_[Bonus_Track]_$uicideboy$.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
       "title": "Akuma no Ko",
-      "artist": "Sati Akura",
-      "has_synced": false,
-      "path": "select/15_Akuma_no_Ko_Sati_Akura.txt"
+      "artist": "Ai Higuchi",
+      "has_synced": true,
+      "path": "select/15_Akuma_no_Ko_Ai_Higuchi.lrc"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
+      "title": "Akuma no Ko",
+      "artist": "Sati Akura",
+      "has_synced": false,
+      "path": "select/16_Akuma_no_Ko_Sati_Akura.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
       "title": "Akuma no Ko - English ver.",
       "artist": "Sati Akura",
       "has_synced": true,
-      "path": "select/16_Akuma_no_Ko_-_English_ver._Sati_Akura.lrc"
+      "path": "select/17_Akuma_no_Ko_-_English_ver._Sati_Akura.lrc"
     },
     {
       "id": "petitlyrics_1",
